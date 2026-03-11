@@ -1,7 +1,7 @@
 # Гайд на vpn
-Доступ к моему vpn выдаётся по ключу. Ключ - ссылка типа https://geovpn.work.gd/RQEHbPlKajlAtJjyibSX72jkS3/1c839ff2-b238-4e9f-8179-6025bd704988/#Test-User если её открыть просто в браузере вы увидите информацию о подписке(сколько осталось и как я вас назвал):
+Доступ к моему vpn выдаётся по ключу. Ключ - ссылка типа `https://geovpn.work.gd/RQEHbPlKajlAtJjyibSX72jkS3/1c839ff2-b238-4e9f-8179-6025bd704988/#Test-User` если её открыть просто в браузере вы увидите информацию о подписке(сколько осталось и как я вас назвал):
 <br/>
-<img width="501" height="464" alt="image" src="https://gist.github.com/user-attachments/assets/504149fb-a8df-4f05-851c-b030f00ad9aa" />
+<img width="501" height="464" alt="image" src="https://github.com/user-attachments/assets/94408736-941d-4bbc-ac53-f3346cac4a83" />
 ## Как подключаться:
 1. Windows
 	- Hiddify App
