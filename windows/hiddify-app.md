@@ -5,6 +5,7 @@
 <a href="https://get.microsoft.com/installer/download/9pdfnl3qv2s5?referrer=appbadge" target="_self" >
 	<img src="https://get.microsoft.com/images/ru%20dark.svg" width="200"/>
 </a>
+<br/>
 Или с релиза на github:
 <br />
 <a href="https://github.com/hiddify/hiddify-app/releases">
@@ -12,6 +13,7 @@
 </a>
 
 **Гайд по подключению**
+<br/>
 Можно подключиться либо прямо кнопкой со страницы, либо вставив ссылку в hiddify.
 ### Кнопкой со страцы
 1. Открываем ссылку(ключ) на подписку в браузере
@@ -30,6 +32,10 @@
 3. Нажимаем "буффер обмена"
 	<img width="1920" height="1434" alt="image_2026-03-21_08-36-35" src="https://github.com/user-attachments/assets/d1ff0fa3-999f-44e5-9279-18d900231664" />
 4. Подключемся с помощью большой кнопки в центре
+
+
+https://github.com/user-attachments/assets/b428b986-e705-4f18-9e46-04e3818e6729
+
 
 ### Что тут отображается
 Пинг(до сервера vpn):
